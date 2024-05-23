@@ -1,0 +1,27 @@
+{
+  "id": "changelog",
+  "title": "Changelog",
+  "description": "---",
+  "source": "@site/docs/changelog.md",
+  "sourceDirName": ".",
+  "slug": "/changelog",
+  "permalink": "/docs/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/changelog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Documentation",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Initialization",
+    "permalink": "/docs/init"
+  }
+}

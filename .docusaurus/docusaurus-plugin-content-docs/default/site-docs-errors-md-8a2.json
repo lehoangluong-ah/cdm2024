@@ -1,0 +1,23 @@
+{
+  "id": "errors",
+  "title": "Errors",
+  "description": "- This provides a list of error codes and their corresponding descriptions for the AH-SDK.",
+  "source": "@site/docs/errors.md",
+  "sourceDirName": ".",
+  "slug": "/errors",
+  "permalink": "/docs/errors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/errors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK Changelog",
+    "permalink": "/docs/videoSDK/videoChangelog"
+  }
+}
