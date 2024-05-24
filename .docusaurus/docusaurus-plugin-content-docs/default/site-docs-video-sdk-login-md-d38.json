@@ -1,0 +1,27 @@
+{
+  "id": "videoSDK/login",
+  "title": "Login",
+  "description": "The Video SDK follows Semantic Versioning. The version number is broken down into MAJOR.MINOR.PATCH.",
+  "source": "@site/docs/videoSDK/login.md",
+  "sourceDirName": "videoSDK",
+  "slug": "/videoSDK/login",
+  "permalink": "/cdm2024/docs/videoSDK/login",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/videoSDK/login.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set up",
+    "permalink": "/cdm2024/docs/videoSDK/setup"
+  },
+  "next": {
+    "title": "Logout",
+    "permalink": "/cdm2024/docs/videoSDK/logout"
+  }
+}

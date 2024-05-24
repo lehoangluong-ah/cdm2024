@@ -5,7 +5,7 @@
   "source": "@site/docs/videoSDK/videoChangelog.md",
   "sourceDirName": "videoSDK",
   "slug": "/videoSDK/videoChangelog",
-  "permalink": "/docs/videoSDK/videoChangelog",
+  "permalink": "/cdm2024/docs/videoSDK/videoChangelog",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/videoSDK/videoChangelog.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Video",
-    "permalink": "/docs/category/video"
+    "permalink": "/cdm2024/docs/category/video"
   },
   "next": {
-    "title": "Errors",
-    "permalink": "/docs/errors"
+    "title": "Set up",
+    "permalink": "/cdm2024/docs/videoSDK/setup"
   }
 }

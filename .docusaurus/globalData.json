@@ -1,53 +1,108 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/cdm2024/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/cdm2024/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "changelog",
-              "path": "/docs/changelog",
+              "path": "/cdm2024/docs/changelog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chatSDK/channel",
+              "path": "/cdm2024/docs/chatSDK/channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chatSDK/channels",
+              "path": "/cdm2024/docs/chatSDK/channels",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "chatSDK/chatChangelog",
-              "path": "/docs/chatSDK/chatChangelog",
+              "path": "/cdm2024/docs/chatSDK/chatChangelog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chatSDK/logout",
+              "path": "/cdm2024/docs/chatSDK/logout",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chatSDK/loigin",
+              "path": "/cdm2024/docs/chatSDK/loigin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chatSDK/messages",
+              "path": "/cdm2024/docs/chatSDK/messages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chatSDK/profile",
+              "path": "/cdm2024/docs/chatSDK/profile",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "errors",
-              "path": "/docs/errors",
+              "path": "/cdm2024/docs/errors",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "init",
-              "path": "/docs/init",
+              "path": "/cdm2024/docs/init",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/cdm2024/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "videoSDK/login",
+              "path": "/cdm2024/docs/videoSDK/login",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "videoSDK/logout",
+              "path": "/cdm2024/docs/videoSDK/logout",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "videoSDK/retrieveAccessToken",
+              "path": "/cdm2024/docs/videoSDK/retrieveAccessToken",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "videoSDK/setup",
+              "path": "/cdm2024/docs/videoSDK/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "videoSDK/usage",
+              "path": "/cdm2024/docs/videoSDK/usage",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "videoSDK/videoChangelog",
-              "path": "/docs/videoSDK/videoChangelog",
+              "path": "/cdm2024/docs/videoSDK/videoChangelog",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/chat",
-              "path": "/docs/category/chat",
+              "path": "/cdm2024/docs/category/chat",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/video",
-              "path": "/docs/category/video",
+              "path": "/cdm2024/docs/category/video",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -55,7 +110,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/cdm2024/docs/intro",
                 "label": "intro"
               }
             }

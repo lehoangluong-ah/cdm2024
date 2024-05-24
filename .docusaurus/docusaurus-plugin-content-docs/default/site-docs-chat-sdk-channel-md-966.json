@@ -1,0 +1,27 @@
+{
+  "id": "chatSDK/channel",
+  "title": "Channel",
+  "description": "Initialize Channel Instance",
+  "source": "@site/docs/chatSDK/channel.md",
+  "sourceDirName": "chatSDK",
+  "slug": "/chatSDK/channel",
+  "permalink": "/cdm2024/docs/chatSDK/channel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chatSDK/channel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Login",
+    "permalink": "/cdm2024/docs/chatSDK/loigin"
+  },
+  "next": {
+    "title": "Channels",
+    "permalink": "/cdm2024/docs/chatSDK/channels"
+  }
+}

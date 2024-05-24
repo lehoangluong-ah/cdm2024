@@ -1,0 +1,27 @@
+{
+  "id": "videoSDK/setup",
+  "title": "Set up",
+  "description": "The Video SDK follows Semantic Versioning. The version number is broken down into MAJOR.MINOR.PATCH.",
+  "source": "@site/docs/videoSDK/setup.md",
+  "sourceDirName": "videoSDK",
+  "slug": "/videoSDK/setup",
+  "permalink": "/cdm2024/docs/videoSDK/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/videoSDK/setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK Changelog",
+    "permalink": "/cdm2024/docs/videoSDK/videoChangelog"
+  },
+  "next": {
+    "title": "Login",
+    "permalink": "/cdm2024/docs/videoSDK/login"
+  }
+}

@@ -7,8 +7,9 @@ export default {
   "title": "AH-SDK",
   "tagline": "API Documentation",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
+  "url": "https://lehoangluong-ah.github.io",
+  "baseUrl": "/cdm2024/",
+  "trailingSlash": false,
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
@@ -53,11 +54,6 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Docs"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false

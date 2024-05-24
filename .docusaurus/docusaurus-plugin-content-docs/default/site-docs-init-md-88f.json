@@ -1,11 +1,11 @@
 {
   "id": "init",
   "title": "Initialization",
-  "description": "- A single package contains virtually everything you need to set up Chat SDK.",
+  "description": "- A single package contains virtually everything you need to set up Chat & Video SDK.",
   "source": "@site/docs/init.md",
   "sourceDirName": ".",
   "slug": "/init",
-  "permalink": "/docs/init",
+  "permalink": "/cdm2024/docs/init",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/init.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Changelog",
-    "permalink": "/docs/changelog"
+    "permalink": "/cdm2024/docs/changelog"
   },
   "next": {
     "title": "Chat",
-    "permalink": "/docs/category/chat"
+    "permalink": "/cdm2024/docs/category/chat"
   }
 }

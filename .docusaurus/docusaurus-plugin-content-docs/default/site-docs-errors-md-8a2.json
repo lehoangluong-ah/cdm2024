@@ -5,7 +5,7 @@
   "source": "@site/docs/errors.md",
   "sourceDirName": ".",
   "slug": "/errors",
-  "permalink": "/docs/errors",
+  "permalink": "/cdm2024/docs/errors",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/errors.md",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SDK Changelog",
-    "permalink": "/docs/videoSDK/videoChangelog"
+    "title": "React Native Specific Usage",
+    "permalink": "/cdm2024/docs/videoSDK/usage"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "chatSDK/messages",
+  "title": "Messages",
+  "description": "Using the chatChannel instance generated from Initialize Channel Instance",
+  "source": "@site/docs/chatSDK/messages.md",
+  "sourceDirName": "chatSDK",
+  "slug": "/chatSDK/messages",
+  "permalink": "/cdm2024/docs/chatSDK/messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chatSDK/messages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Channels",
+    "permalink": "/cdm2024/docs/chatSDK/channels"
+  },
+  "next": {
+    "title": "Logout",
+    "permalink": "/cdm2024/docs/chatSDK/logout"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "videoSDK/retrieveAccessToken",
+  "title": "Login",
+  "description": "The Video SDK follows Semantic Versioning. The version number is broken down into MAJOR.MINOR.PATCH.",
+  "source": "@site/docs/videoSDK/retrieveAccessToken.md",
+  "sourceDirName": "videoSDK",
+  "slug": "/videoSDK/retrieveAccessToken",
+  "permalink": "/cdm2024/docs/videoSDK/retrieveAccessToken",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/videoSDK/retrieveAccessToken.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Logout",
+    "permalink": "/cdm2024/docs/videoSDK/logout"
+  },
+  "next": {
+    "title": "React Native Specific Usage",
+    "permalink": "/cdm2024/docs/videoSDK/usage"
+  }
+}

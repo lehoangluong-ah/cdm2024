@@ -8,7 +8,7 @@ sidebar_position: 2
 
 All notable changes to this documentation will be documented in this file.
 
-# [Unreleased]
+<!-- # [Unreleased]
 
 ---
 
@@ -21,7 +21,7 @@ All notable changes to this documentation will be documented in this file.
 
 **_Change_**
 
-**_Fixed_**
+**_Fixed_** -->
 
 # [V1.0.0] - 2024-05-23
 
@@ -32,7 +32,7 @@ First release of API documentation in current domain.
 **_Added_**
 
 - API Introduction
-- Identity
+- Chat and Video first view
 
 **_Change_**
 

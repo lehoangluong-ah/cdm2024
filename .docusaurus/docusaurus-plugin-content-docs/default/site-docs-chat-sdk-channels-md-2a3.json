@@ -1,0 +1,27 @@
+{
+  "id": "chatSDK/channels",
+  "title": "Channels",
+  "description": "Channels can be used to create conversations between users. In most cases, users will have multiple channels. Below there's few method can uses for query channel data.",
+  "source": "@site/docs/chatSDK/channels.md",
+  "sourceDirName": "chatSDK",
+  "slug": "/chatSDK/channels",
+  "permalink": "/cdm2024/docs/chatSDK/channels",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chatSDK/channels.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Channel",
+    "permalink": "/cdm2024/docs/chatSDK/channel"
+  },
+  "next": {
+    "title": "Messages",
+    "permalink": "/cdm2024/docs/chatSDK/messages"
+  }
+}

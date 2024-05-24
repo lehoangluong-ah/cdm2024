@@ -1,0 +1,27 @@
+{
+  "id": "videoSDK/usage",
+  "title": "React Native Specific Usage",
+  "description": "The Video SDK follows Semantic Versioning. The version number is broken down into MAJOR.MINOR.PATCH.",
+  "source": "@site/docs/videoSDK/usage.md",
+  "sourceDirName": "videoSDK",
+  "slug": "/videoSDK/usage",
+  "permalink": "/cdm2024/docs/videoSDK/usage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/videoSDK/usage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Login",
+    "permalink": "/cdm2024/docs/videoSDK/retrieveAccessToken"
+  },
+  "next": {
+    "title": "Errors",
+    "permalink": "/cdm2024/docs/errors"
+  }
+}

@@ -5,7 +5,7 @@
   "source": "@site/docs/changelog.md",
   "sourceDirName": ".",
   "slug": "/changelog",
-  "permalink": "/docs/changelog",
+  "permalink": "/cdm2024/docs/changelog",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/changelog.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "API Documentation",
-    "permalink": "/docs/intro"
+    "permalink": "/cdm2024/docs/intro"
   },
   "next": {
     "title": "Initialization",
-    "permalink": "/docs/init"
+    "permalink": "/cdm2024/docs/init"
   }
 }
